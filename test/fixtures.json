@@ -17,15 +17,15 @@
       "string": "aPEr"
     },
     {
-      "hex": "73696d706c792061206c6f6e6720737472696e67",
+      "hex": "736712b21ecd6e5b57ed63efaaf2c80f79696e67",
       "string": "2cFupjhnEsSn59qHXstmK2ffpLv2"
     },
     {
-      "hex": "00eb15231dfceb60925886b67d065299925915aeb172c06647",
+      "hex": "00eb15231dfceb60925886b67d06529992590a4ee03462ad47",
       "string": "1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L"
     },
     {
-      "hex": "516b6fcd0f",
+      "hex": "55165cd40f",
       "string": "ABnLTmg"
     },
     {
@@ -34,10 +34,10 @@
     },
     {
       "hex": "572e4794",
-      "string": "3EFU7m"
+      "string": "3EFu7m"
     },
     {
-      "hex": "ecac89cad93923c02321",
+      "hex": "ecac89cad93923beda9d",
       "string": "EJDM8drfXA6uyA"
     },
     {
@@ -49,12 +49,12 @@
       "string": "1111111111"
     },
     {
-      "hex": "801184cd2cdd640ca42cfc3a091c51d549b2f016d454b2774019c2b2d2e08529fd206ec97e",
+      "hex": "801184cd2cdd640ca42cfc3a091c51d549b2f016d454b2774019c2b2d2e084f9cb0dbecd7e",
       "string": "5Hx15HFGyep2CfPxsJKe2fXJsCVn5DEiyoeGGF6JZjGbTRnqfiD"
     },
     {
-      "hex": "003c176e659bea0f29a3e9bf7880c112b1b31b4dc826268187",
-      "string": "16UjcYNBG9GTK4uq2f7yYEbuifqCzoLMGS"
+      "hex": "003c176e65b99daab855f34bce35447cf55f7bf711c65fbd87",
+      "string": "16ujcYNBG9GTK4uq2f7yYEbuifqCzoLMGS"
     }
   ],
   "invalid": [

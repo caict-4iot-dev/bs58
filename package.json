@@ -1,7 +1,7 @@
 {
-  "name": "bs58",
+  "name": "@bifproject/bs58",
   "version": "5.0.0",
-  "description": "Base 58 encoding / decoding",
+  "description": "Base 58 encoding / decoding for bif",
   "keywords": [
     "base58",
     "bitcoin",
@@ -11,7 +11,8 @@
     "decoding",
     "encode",
     "encoding",
-    "litecoin"
+    "litecoin",
+    "bif"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -19,7 +20,7 @@
     "tape": "^4.6.3"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/bs58",
+    "url": "https://github.com/caict-4iot-dev/bs58",
     "type": "git"
   },
   "files": [

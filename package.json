@@ -1,5 +1,5 @@
 {
-  "name": "@bifproject/bs58",
+  "name": "@caict/bs58",
   "version": "5.0.0",
   "description": "Base 58 encoding / decoding for bif",
   "keywords": [
